@@ -1,3 +1,10 @@
 # quantumcomputing
 - quantum computing, qiskit, qubit mapping
-- Duke University Summer 2023
+
+- initial mapping -> executing all feasible CNOT gates -> remapping 
+
+
+
+
+
+Duke University Summer 2023
